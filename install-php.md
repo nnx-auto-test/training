@@ -34,3 +34,11 @@
 
 - дополнительные параметры системы
 ![advanced_setting](advanced_setting.jpg) 
+
+- параметры среды 
+![parametrs](parametrs.jpg)  
+
+- выбираем переменную  path и нажимаем кнопку "изменить"
+![path](path.jpg)   
+
+
