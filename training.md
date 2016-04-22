@@ -11,3 +11,18 @@
                                    Было | Стало  
 ----------------------------------------|---------------------
 ![ini-development](ini_development.jpg) | ![ini](ini.jpg)
+
+- Открываем на редактирование файл php.ini. Далее необходимо заменить ряд  строк:
+
+Было                        |Стало
+----------------------------|------------------------------
+;date.timezone =            | date.timezone = Europe/Moscow
+;extension=php_curl.dll     | extension=ext/php_curl.dll
+;extension=php_intl.dll     | extension=ext/php_intl.dll
+;extension=php_mbstring.dll | extension=ext/php_mbstring.dll
+;extension=php_openssl.dll  | extension=ext/php_openssl.dll
+;extension=php_pdo_mysql.dll| extension=ext/php_pdo_mysql.dll
+;extension=php_pdo_pgsql.dll| extension=ext/php_pdo_pgsql.dll
+;extension=php_soap.dll     | extension=ext/php_soap.dll
+
+![add_ext](add_ext.jpg)
