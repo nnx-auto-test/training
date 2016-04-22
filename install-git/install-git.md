@@ -7,13 +7,8 @@
 - Шаг - 1
 ![шаг 1](setup 1.jpg)
 
-----------------
-
 - Шаг - 2
 ![шаг 2](setup 2.jpg)
-
-------------------
-
 
 - Шаг - 3 - Установить чекбокс в "Use a TrueType font in all console windows"
 ![шаг 3](setup 3.jpg)
