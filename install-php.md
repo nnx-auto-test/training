@@ -65,9 +65,8 @@
 ![download](download.jpg)  
 
 
-- Выбираем в зависимости от типа Windows "VSU4\vcredist_x64.exe" или "VSU4\vcredist_x86.exe"  и нажимаем кнопку "Next"
-![x64_version](x64_version.jpg)    
-- Разрядность операционной системы можно посмотреть в настройках "Мой Компьютер"
-![version_Wind.jpg](version_Wind.jpg)    
+- Выбираем  "VSU4\vcredist_x86.exe"  и нажимаем кнопку "Next"
+![x86_version](x86_version.jpg)   
+
 - Устанавливаем скаченный файл
 
