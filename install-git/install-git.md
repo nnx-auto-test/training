@@ -50,4 +50,4 @@
 ![ 	inspection_git](inspection_git.jpg)
 
 - в открывшемся окне ввести git -v и git -version 
-![ 	inspection_git2](inspection_git2.jpg)
+![ 	inspection_git_2](inspection_git_2.jpg)
