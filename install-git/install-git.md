@@ -43,3 +43,11 @@
 - Шаг - 10 - Установка закончена
 
 ![шаг 10](setup 10.jpg)
+
+# Проверка установки
+
+- открыть меню "Пуск" - все программы - выбрать Git- GitBush
+![ 	inspection_git](inspection_git.jpg)
+
+- в открывшемся окне ввести git -v и git -version 
+![ 	inspection_git2](inspection_git2.jpg)
