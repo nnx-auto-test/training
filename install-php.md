@@ -26,3 +26,11 @@
 ;extension=php_soap.dll     | extension=ext/php_soap.dll
 
 ![add_ext](add_ext.jpg)
+
+# добавить php в переменные среды PATH
+
+- выбрать меню пуск - мой компьютер - (щелчок правой кнопки мыши)- свойства
+![ 	my_computer_property]( 	my_computer_property.jpg )
+
+- дополнительные параметры системы
+![advanced_setting](advanced_setting.jpg) 
