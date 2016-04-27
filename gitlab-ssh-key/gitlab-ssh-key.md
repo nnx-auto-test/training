@@ -107,9 +107,21 @@ clip < ~/.ssh/id_rsa.pub
 
 ![ssh key exists](Copy_Ssh_key_in_clipboard.jpg)
 
-- В GitLab'e в поле добавления ключей вставляем из буфера обмена (cntrl+v), текст SSH ключа:
+- В GitLab'e в поле добавления ключей вставляем из буфера обмена (cntrl+v), текст SSH ключа, нажимаем кнопку "Add Key"
 
 ![ssh key exists](Add_key_2.jpg)
 
+
+## Проверка корректности добавления ssh ключей
+
+В Git Bash консоли вводим команду:
+
+```bash
+ ssh -T git@imc-git.mte-telecom.ru
+```
+
+При правильном выполнении всех предыдущих действий ожидается следующий результат:
+
+![ssh key exists](Ssh_key_add_complited.jpg)
 
 
