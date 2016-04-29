@@ -119,9 +119,23 @@ clip < ~/.ssh/id_rsa.pub
 ```bash
  ssh -T git@imc-git.mte-telecom.ru
 ```
+В случае вопроса вида: 
+```bash
+The authenticity of host 'imc-git.mte-telecom.ru (x.x.x.x)' can't be established.
+ECDSA key fingerprint is SHA256:M10w+FFxSX3/w2CGD+Tu0FWu6GPeShDgwDcvmnpf/gE.
+Are you sure you want to continue connecting (yes/no)?
+
+```
+
+Ввести "yes"
 
 При правильном выполнении всех предыдущих действий ожидается следующий результат:
 
+![ssh key exists](Add_key_complited.jpg)
+
+либо (если вопрос не появлялся)
+
 ![ssh key exists](Ssh_key_add_complited.jpg)
+
 
 
