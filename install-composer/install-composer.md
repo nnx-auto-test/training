@@ -1,3 +1,3 @@
 # Установка composer
 
-- Скачать (composer)[https://getcomposer.org/Composer-Setup.exe]
+- Скачать [composer](https://getcomposer.org/Composer-Setup.exe)
